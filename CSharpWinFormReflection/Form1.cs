@@ -8,7 +8,10 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// https://www.itread01.com/content/1552328408.html
+/** 反射
+ https://www.itread01.com/content/1552328408.html
+ http://e-troy.blogspot.com/2014/03/c-reflection-part-1-typeinvokemember.html
+*/
 namespace CSharpWinFormReflection
 {
     public partial class Form1 : Form
